@@ -169,7 +169,7 @@
         {
          "columns":32,
          "firstgid":1,
-         "image":"..\/Assets\/Tiles\/Tileset.png",
+         "image":"..\/Assets\/Tiles\/sceneSpriteSheet.png",
          "imageheight":384,
          "imagewidth":384,
          "margin":0,
