@@ -160,6 +160,7 @@ function animate() {
 			}
 		}
 	}
+
 	// IDEA: diagonal movement with speed limit
 	let moving = true;
 	player.moving = false;
