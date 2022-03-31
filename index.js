@@ -142,7 +142,7 @@ function animate() {
 		battleZone.draw();
 	});
 
-	// EXAMPLE: Unmovable zones render
+	// EXAMPLE: boundary render
 	// boundaries.forEach(boundary => {
 	// 	boundary.draw();
 	// });
