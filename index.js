@@ -138,9 +138,9 @@ function animate() {
 	background.draw();
 
 	// EXAMPLE: battle zones render
-	battleZones.forEach(battleZone => {
-		battleZone.draw();
-	});
+	// battleZones.forEach(battleZone => {
+	// 	battleZone.draw();
+	// });
 
 	// EXAMPLE: boundary render
 	// boundaries.forEach(boundary => {
